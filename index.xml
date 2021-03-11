@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sycamor&#39;s blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Sycamor&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 11 Mar 2021 10:32:43 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>http://example.org/post/helloworld/</link>
+      <pubDate>Thu, 11 Mar 2021 10:32:43 +0800</pubDate>
+      
+      <guid>http://example.org/post/helloworld/</guid>
+      <description>说明  Hello world
+ </description>
+    </item>
+    
+  </channel>
+</rss>
